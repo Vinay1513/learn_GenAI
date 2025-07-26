@@ -1,0 +1,5 @@
+{
+    "python.analysis.extraPaths": [
+        "./student_performance_predictor/app"
+    ]
+}
